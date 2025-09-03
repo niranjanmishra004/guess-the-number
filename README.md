@@ -17,8 +17,8 @@ A simple Python-based game where the computer picks a random number, and you hav
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/niranjanmishra004/number-guessing-game.git
-   cd number-guessing-game
+   git clone https://github.com/niranjanmishra004/guess-the-number.git
+   cd guess-the-number
 
 2. **Run the game**
 Make sure you have Python installed (Python 3.x).
