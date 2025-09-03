@@ -36,7 +36,9 @@ Make sure you have Python installed (Python 3.x).
 ---
 
 **📝 Example Gameplay**
+<p>
 <img width="552" height="270" alt="image" src="https://github.com/user-attachments/assets/abd632ca-4a25-4c51-9abc-fe88cd1fc35f" />
+</p>
 
 ---
 
